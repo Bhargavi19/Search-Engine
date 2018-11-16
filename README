@@ -1,0 +1,5 @@
+To use this web app, you need to have tomcat configured on your system.
+To use the system, run searchbar.jsp on the server.
+1. Enter the keyword you want to search. 
+(For now this application works well for the keywords Statue, Modi, Unity, Liberty, Narendra Modi)
+2. You will see a set of links, you can click on them to visit the pages, or you could go back to the search page again.
